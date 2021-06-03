@@ -1,0 +1,7 @@
+THeme Colors 
+
+Color -1: #fb839e 
+Color -2 : #ec9412
+Color -3 : #1fc586
+Color -4: #2eb1ed
+Color -5: #cc3a3b
